@@ -1,6 +1,7 @@
 # Ecommerce sales prediction
 
 📊 E-Commerce Sales Prediction using Linear Regression
+
 📌 Problem Statement
 
 The objective of this project is to predict e-commerce sales based on various influencing factors such as price, discount, marketing spend, time on website,time on app and seasonal trends using Linear Regression.
