@@ -24,7 +24,7 @@ g. Evaluate model performance
 
 h. Predict future sales                                                                                                                                 
 
-3. 📂 Dataset (Ecommerce sales Dataset) ->
+ 3. 📂 Dataset (Ecommerce sales Dataset) ->
    <a href="https://docs.google.com/spreadsheets/d/1ZzpV3RnIDQ8nI01yUZe47gSTgtGbjweL/edit?usp=sharing&ouid=114193823415217145696&rtpof=true&sd=true" target="_blank">
     <img src="https://img.shields.io/badge/Ecommerce Data-Preview-green" />
   </a>
@@ -41,13 +41,4 @@ h. Predict future sales
 
 5. 📖 Reading the Data
 
-   df = pd.read_csv("ecommerce data.csv")
-
-    # First 5 rows
-      print(df.head())
-
-    # Dataset info
-      print(df.info())
-
-    # Statistical summary
-      print(df.describe())
+       Follow Linear Regression Project Code Jupyter notebook for further reading and analysis
