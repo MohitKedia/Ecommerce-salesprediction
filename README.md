@@ -29,7 +29,7 @@ h. Predict future sales
     <img src="https://img.shields.io/badge/Ecommerce Data-Preview-green" />
   </a>
 
-4.📦 Importing Python Libraries
+ 4.📦 Importing Python Libraries
 
       import pandas as pd
       import numpy as np
