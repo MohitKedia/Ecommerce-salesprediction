@@ -38,3 +38,16 @@ h. Predict future sales
       from sklearn.model_selection import train_test_split
       from sklearn.linear_model import LinearRegression
       from sklearn import metrics
+
+5. 📖 Reading the Data
+
+   df = pd.read_csv("ecommerce data.csv")
+
+    # First 5 rows
+      print(df.head())
+
+    # Dataset info
+      print(df.info())
+
+    # Statistical summary
+      print(df.describe())
