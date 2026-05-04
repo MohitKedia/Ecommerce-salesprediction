@@ -24,5 +24,5 @@ g. Evaluate model performance
 
 h. Predict future sales                                                                                                                                 
 
-4. Ecommerce dataset = https://docs.google.com/spreadsheets/d/1ZzpV3RnIDQ8nI01yUZe47gSTgtGbjweL/edit?pli=1&gid=377959198#gid=377959198
-with important variables such as price, sales, discount, marketing spend, rating, time on app etc
+4. 📂 Dataset (Ecommerce sales Dataset) = https://docs.google.com/spreadsheets/d/1ZzpV3RnIDQ8nI01yUZe47gSTgtGbjweL/edit?pli=1&gid=377959198#gid=377959198
+with important variables such as price, sales, discount, marketing spend, rating, time on app, time on website etc
