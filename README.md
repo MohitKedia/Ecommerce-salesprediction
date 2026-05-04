@@ -16,4 +16,4 @@ The objective of this project is to predict e-commerce sales based on various in
 7. Evaluate model performance
 8. Predict future sales                                                                                                                                 
 
-Ecommerce dataset -> </a href="https://docs.google.com/spreadsheets/d/1ZzpV3RnIDQ8nI01yUZe47gSTgtGbjweL/edit?pli=1&gid=377959198#gid=377959198" \a> with important variables such as price, sales, discount, marketing spend, rating, time on app etc
+Ecommerce dataset = https://docs.google.com/spreadsheets/d/1ZzpV3RnIDQ8nI01yUZe47gSTgtGbjweL/edit?pli=1&gid=377959198#gid=377959198 with important variables such as price, sales, discount, marketing spend, rating, time on app etc
