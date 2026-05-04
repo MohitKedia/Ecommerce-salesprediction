@@ -24,7 +24,10 @@ g. Evaluate model performance
 
 h. Predict future sales                                                                                                                                 
 
-3. 📂 Dataset (Ecommerce sales Dataset) = https://docs.google.com/spreadsheets/d/1ZzpV3RnIDQ8nI01yUZe47gSTgtGbjweL/edit?pli=1&gid=377959198#gid=377959198
+3. 📂 Dataset (Ecommerce sales Dataset) ->
+   <a href="https://docs.google.com/spreadsheets/d/1ZzpV3RnIDQ8nI01yUZe47gSTgtGbjweL/edit?usp=sharing&ouid=114193823415217145696&rtpof=true&sd=true" target="_blank">
+    <img src="https://img.shields.io/badge/Ecommerce Data-Preview-green" />
+  </a>
 with important variables such as price, sales, discount, marketing spend, rating, time on app, time on website etc
 
 4.📦 Importing Python Libraries
