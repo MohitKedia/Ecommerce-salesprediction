@@ -6,11 +6,13 @@
 The objective of this project is to predict e-commerce sales based on various influencing factors such as price, discount, marketing spend, time on website,time on app and seasonal trends using Linear Regression.
 
 2. 🎯 Approach
-Collect historical e-commerce data
-Perform data cleaning and preprocessing
-Conduct Exploratory Data Analysis (EDA)
-Select important features
-Split dataset into training and testing sets
-Train a Linear Regression model
-Evaluate model performance
-Predict future sales
+1. Collect historical e-commerce data
+2. Perform data cleaning and preprocessing
+3. Conduct Exploratory Data Analysis (EDA)
+4. Select important features
+5. Split dataset into training and testing sets
+6. Train a Linear Regression model
+7. Evaluate model performance
+8. Predict future sales                                                                                                                                 
+
+
