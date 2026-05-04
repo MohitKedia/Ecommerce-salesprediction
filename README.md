@@ -24,5 +24,16 @@ g. Evaluate model performance
 
 h. Predict future sales                                                                                                                                 
 
-4. 📂 Dataset (Ecommerce sales Dataset) = https://docs.google.com/spreadsheets/d/1ZzpV3RnIDQ8nI01yUZe47gSTgtGbjweL/edit?pli=1&gid=377959198#gid=377959198
+3. 📂 Dataset (Ecommerce sales Dataset) = https://docs.google.com/spreadsheets/d/1ZzpV3RnIDQ8nI01yUZe47gSTgtGbjweL/edit?pli=1&gid=377959198#gid=377959198
 with important variables such as price, sales, discount, marketing spend, rating, time on app, time on website etc
+
+4.📦 Importing Python Libraries
+
+      import pandas as pd
+      import numpy as np
+      import matplotlib.pyplot as plt
+      import seaborn as sns
+
+from sklearn.model_selection import train_test_split
+from sklearn.linear_model import LinearRegression
+from sklearn import metrics
